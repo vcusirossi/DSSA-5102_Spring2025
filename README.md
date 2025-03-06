@@ -16,8 +16,9 @@ _Data Science and Strategic Analytics Graduate Program_ - [Stockton University](
     - An introduction to basic SQL commands and queries.
 - Assignment #5 - Only Murders in the...Database? Cont.
     - Practice using basic SQL commands and queries.
-- Assignment #6 - Creating a Database from scratch in R
+- Assignment #6 - Creating a Database from scratch in Python
     - Locally, and with MySQL Workbench.
+- Assignment #7 - 
 
 
 
