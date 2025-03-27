@@ -18,7 +18,11 @@ _Data Science and Strategic Analytics Graduate Program_ - [Stockton University](
     - Practice using basic SQL commands and queries.
 - Assignment #6 - Creating a Database from scratch in Python
     - Locally, and with MySQL Workbench.
-- Assignment #7 -
+- Assignment #7 - Populating our Database
+    - Develop a database schema in MySQL Workbench with our populated database.
+- Assignment #8 - JOINs
+    - Practice using JOINs on our database to answer questions.
+- Assignment #9 -           
 
 ### Student Repositories:
 [@amorales702](https://github.com/amorales702), [@Britt1996](https://github.com/Britt1996), 
