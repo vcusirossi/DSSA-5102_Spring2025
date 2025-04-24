@@ -22,7 +22,8 @@ _Data Science and Strategic Analytics Graduate Program_ - [Stockton University](
     - Develop a database schema in MySQL Workbench with our populated database.
 - Assignment #8 - JOINs
     - Practice using JOINs on our database to answer questions.
-- Assignment #9 - Miscellaneous SQL
+- Assignment #9 - Miscellaneous SQL 
+- Assignment #10 - Pulling it all Together!
 
 ### Student Repositories:
 [@amorales702](https://github.com/amorales702), [@Britt1996](https://github.com/Britt1996), [@DavidJ41](https://github.com/DavisJ41), [@Decabra](https://github.com/Decabra), [@GaryJS](https://github.com/GaryJS), [@joedag32](https://github.com/joedag32), [@joncolon](https://github.com/joncolon), [@jordannicole9](https://github.com/JordanNicole9), [@letatthinh](https://github.com/letatthinh), [@madisonsouder](https://github.com/madisonsouder), [@margvinatta](https://github.com/Margvinatta), [@mikeflan6](https://github.com/mikeflan6), [@niyatip7](https://github.com/niyatip7), [@Oceanmandan25](https://github.com/Oceanmandan25), [@tjmorgan462](https://github.com/tjmorgan462)
